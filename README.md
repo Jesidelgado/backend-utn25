@@ -35,7 +35,7 @@ Incluye sistema de autenticación, gestión de productos, categorías y usuarios
 
 1. Clonar el repositorio:
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/Jesidelgado/backend-utn25
 cd tp-back
 ```
 
@@ -415,7 +415,7 @@ El seed crea 23 productos distribuidos en las categorías:
 La API está configurada para aceptar peticiones desde cualquier origen (`origin: '*'`). En producción, se recomienda restringir esto a los dominios específicos de tu frontend.
 
 ## 👤 Autor
-** Jesica Delgado **
+**Jesica Delgado**
 Trabajo práctico desarrollado para la UTN (Universidad Tecnológica Nacional).
 Noviembre 2025
 ---
